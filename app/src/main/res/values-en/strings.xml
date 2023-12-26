@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learning Vietnamese</string>
+    <string name="text_read_along">Reading along</string>
+    <string name="text_touch_read">Touch and read</string>
+    <string name="text_swipe_read">Swipe and read</string>
+    <string name="text_check">Test</string>
+    <string name="search">Search</string>
+    <string name="more">Xem thêm</string>
+    <string name="big_list_follow_title">Reading along</string>
+    <string name="alphabet">Alphabete</string>
+    <string name="number">Number</string>
+    <string name="animal">Animal</string>
+    <string name="fruit">Fruit</string>
+    <string name="square">Shape</string>
+    <string name="school">Stationery</string>
+    <string name="color">Color</string>
+    <string name="flower">Flower</string>
+    <string name="vehicle">Transportation</string>
+    <string name="country">Country</string>
+    <string name="follow">Reading along</string>
+    <string name="touch">Touch and repeat</string>
+    <string name="swipe">Swipe and repeat</string>
+    <string name="test">Test</string>
+    <string name="rank">Leaderboard</string>
+    <string name="login">Login</string>
+    <string name="account">Account name</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="signup">You don\'t have an account?</string>
+    <string name="forgotpassword">Forgot your password?</string>
+    <string name="signpupform">SIGN UP</string>
+    <string name="resetpassword">Change password</string>
+    <string name="fail">Failed!</string>
+    <string name="passwordrequirement">Password must be 6 characters long, including letters and numbers</string>
+    <string name="close">Close</string>
+</resources>

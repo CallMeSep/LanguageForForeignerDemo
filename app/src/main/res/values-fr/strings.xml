@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Apprendre le Vietnamien</string>
+    <string name="text_read_along">En train de lire</string>
+    <string name="text_touch_read">Touchez et lisez</string>
+    <string name="text_swipe_read">Glissez et lisez</string>
+    <string name="text_check">L\'exam</string>
+    <string name="search">Recherchez</string>
+    <string name="more">Plus</string>
+    <string name="big_list_follow_title">Lire le long</string>
+    <string name="alphabet">L\'alphabet</string>
+    <string name="number">Nombre</string>
+    <string name="animal">L\'animal</string>
+    <string name="fruit">Le fruit</string>
+    <string name="square">La forme</string>
+    <string name="school">Papeterie</string>
+    <string name="color">Couleur</string>
+    <string name="flower">Fleur</string>
+    <string name="vehicle">Transport</string>
+    <string name="country">Pays</string>
+    <string name="follow">En train de lire</string>
+    <string name="touch">Touchez et lisez</string>
+    <string name="swipe">Glissez et lisez</string>
+    <string name="test">L\'exam</string>
+    <string name="rank">Classement</string>
+    <string name="login">Se connecter</string>
+    <string name="account">Nom du compte</string>
+    <string name="password">Mot de passe</string>
+    <string name="signin">Se connecter</string>
+    <string name="signup">Vous n\'avez pas de compte ?</string>
+    <string name="forgotpassword">Mot de passe oublié?</string>
+    <string name="signpupform">S\'INSCRIRE</string>
+    <string name="resetpassword">Changer le mot de passe</string>
+    <string name="fail">Échoué!</string>
+    <string name="passwordrequirement">Le mot de passe doit comporter 6 caractères, dont des lettres et des chiffres</string>
+    <string name="close">Fermer</string>
+</resources>
