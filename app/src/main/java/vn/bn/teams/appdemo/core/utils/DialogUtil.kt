@@ -1,7 +1,6 @@
 package vn.bn.teams.appdemo.core.utils
 
 import android.app.Dialog
-import android.app.ProgressDialog
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.util.Log
@@ -9,7 +8,6 @@ import android.view.LayoutInflater
 import android.view.Window
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.google.android.material.button.MaterialButton
 import vn.bn.teams.appdemo.R
 
 

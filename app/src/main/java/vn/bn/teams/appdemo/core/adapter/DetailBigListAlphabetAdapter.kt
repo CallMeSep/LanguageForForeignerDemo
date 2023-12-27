@@ -1,15 +1,12 @@
 package vn.bn.teams.appdemo.core.adapter
 
+import android.animation.ValueAnimator
 import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
-import vn.bn.teams.appdemo.core.custom.AudioManager
-
-import android.animation.ValueAnimator
-import com.google.firebase.annotations.concurrent.Background
 import vn.bn.teams.appdemo.R
 import vn.bn.teams.appdemo.data.Constants
 import vn.bn.teams.appdemo.data.models.DataAlphabetFollow

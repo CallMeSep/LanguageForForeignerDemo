@@ -2,9 +2,8 @@ package vn.bn.teams.appdemo.core.custom
 
 import android.content.Context
 import android.media.MediaPlayer
-import android.media.MediaPlayer.OnCompletionListener
-import java.util.*
-import kotlin.collections.ArrayList
+import java.util.Timer
+import java.util.TimerTask
 
 
 interface AudioManagerInput {

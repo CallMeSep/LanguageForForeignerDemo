@@ -18,9 +18,9 @@ import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.FirebaseAuthActionCodeException
 import com.google.firebase.auth.FirebaseAuthUserCollisionException
 import com.google.firebase.auth.auth
-import vn.bn.teams.appdemo.core.utils.DialogUtil
 import vn.bn.teams.appdemo.R
 import vn.bn.teams.appdemo.api.SessionManager
+import vn.bn.teams.appdemo.core.utils.DialogUtil
 import vn.bn.teams.appdemo.databinding.ActivityLoginBinding
 
 

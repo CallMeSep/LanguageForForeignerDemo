@@ -1,8 +1,6 @@
 package vn.bn.teams.appdemo.core.activities
 
 import android.content.Intent
-
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
@@ -11,18 +9,17 @@ import android.widget.Toast
 import androidx.activity.result.ActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AlertDialog
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions
 import com.bumptech.glide.request.RequestOptions
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.Source
-import vn.bn.teams.appdemo.core.utils.DialogUtil
-
 import vn.bn.teams.appdemo.R
 import vn.bn.teams.appdemo.UserManager
-
 import vn.bn.teams.appdemo.core.custom.AudioManager
+import vn.bn.teams.appdemo.core.utils.DialogUtil
 import vn.bn.teams.appdemo.data.Constants
 import vn.bn.teams.appdemo.databinding.ActivityHomeScreenBinding
 

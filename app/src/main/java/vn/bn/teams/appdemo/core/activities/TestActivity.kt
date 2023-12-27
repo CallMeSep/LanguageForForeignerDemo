@@ -4,7 +4,6 @@ import android.annotation.SuppressLint
 import android.app.Dialog
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
-
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
@@ -13,23 +12,17 @@ import android.view.LayoutInflater
 import android.view.View.OnTouchListener
 import android.view.Window
 import android.widget.TextView
-
 import com.google.android.material.button.MaterialButton
 import com.google.firebase.firestore.FieldValue
 import com.google.firebase.firestore.FirebaseFirestore
-
 import com.google.firebase.firestore.SetOptions
-
 import vn.bn.teams.appdemo.BaseActivity
 import vn.bn.teams.appdemo.R
 import vn.bn.teams.appdemo.UserManager
-
 import vn.bn.teams.appdemo.core.adapter.TestPagerAdapter
 import vn.bn.teams.appdemo.core.custom.AudioManager
-import vn.bn.teams.appdemo.data.database.MyDatabase
-
 import vn.bn.teams.appdemo.core.utils.DialogUtil
-
+import vn.bn.teams.appdemo.data.database.MyDatabase
 import vn.bn.teams.appdemo.data.models.DataAlphabetFollow
 import vn.bn.teams.appdemo.data.models.DataQuiz
 import vn.bn.teams.appdemo.databinding.ActivityTestBinding

@@ -3,15 +3,14 @@ package vn.bn.teams.appdemo.core.activities
 import android.animation.ValueAnimator
 import android.annotation.SuppressLint
 import android.media.MediaPlayer
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import android.view.View
 import androidx.activity.addCallback
+import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.google.android.play.integrity.internal.t
 import vn.bn.teams.appdemo.core.adapter.DetailBigListAlphabetAdapter
 import vn.bn.teams.appdemo.core.custom.AudioManager
 import vn.bn.teams.appdemo.data.Constants

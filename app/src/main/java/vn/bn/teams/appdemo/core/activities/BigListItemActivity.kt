@@ -1,31 +1,23 @@
 package vn.bn.teams.appdemo.core.activities
 
+
+//import vn.bn.teams.appdemo.api.ApiInterface
+//import vn.bn.teams.appdemo.api.RetrofitInstance
 import android.content.Intent
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
 import android.util.Log
-import android.view.View
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import vn.bn.teams.appdemo.core.adapter.BigListFollowAdapter
-
-
-import android.widget.Toast
-import vn.bn.teams.appdemo.core.utils.DialogUtil
-import retrofit2.Call
-import retrofit2.Callback
-import retrofit2.Response
-import vn.bn.teams.appdemo.databinding.ActivityBigListFollowBinding
-//import vn.bn.teams.appdemo.api.ApiInterface
-//import vn.bn.teams.appdemo.api.RetrofitInstance
 import vn.bn.teams.appdemo.api.SessionManager
+import vn.bn.teams.appdemo.core.adapter.BigListFollowAdapter
+import vn.bn.teams.appdemo.core.utils.DialogUtil
 import vn.bn.teams.appdemo.data.Constants
 import vn.bn.teams.appdemo.data.database.MyDatabase
-import vn.bn.teams.appdemo.data.models.BigListResponse
 import vn.bn.teams.appdemo.data.models.DataFollow
-import java.util.Locale
+import vn.bn.teams.appdemo.databinding.ActivityBigListFollowBinding
 
 
 class BigListItemActivity : AppCompatActivity() {
